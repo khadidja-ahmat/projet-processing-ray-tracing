@@ -1,6 +1,6 @@
 # Lancer de rayons en Processing
 
-Projet d'**Informatique de l'image et de la géométrie** (Master 2 Génie logiciel, Université de Bordeaux), réalisé en binôme avec **Djibrine Moustapha Mahamat**.
+Projet d'**Informatique de l'image et de la géométrie** (Licence 3 Informatique, Université de limoges), réalisé en binôme avec **Djibrine Moustapha Mahamat**.
 
 Un petit moteur de **ray tracing** écrit étape par étape en Processing (Java) : on envoie un rayon par pixel et on calcule ce qu'il touche.
 
